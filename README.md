@@ -1,7 +1,12 @@
 
 # LitLINK - High-End Minimalist Shop
 
-Welcome to the High-End Minimalist Shop, a modern e-commerce website built with React. This website offers a curated collection of high-quality, minimalist products, providing an exceptional shopping experience for customers who appreciate simplicity and elegance.
+Welcome to the High-End Minimalist Shop, a modern e-commerce website built with React. 
+This website offers a curated collection of high-quality, minimalist products, providing an exceptional shopping experience for customers who appreciate simplicity and elegance.
+
+
+👉 Deployed app: [https://litlink-htv8.vercel.app/](https://litlink-htv8.vercel.app/)
+
 
 
 ## About the Project
@@ -18,6 +23,9 @@ The High-End Minimalist Shop is designed to showcase products in a clean and min
 - **Focus on Products:** The main focus of our website is the products themselves. We've carefully curated a selection of high-end, minimalist items that cater to those with discerning tastes.
 
 - **Responsive Design:** The website is responsive, providing an optimal viewing experience on various devices, including desktops, tablets, and smartphones.
+
+
+
 
 ## Features
 
@@ -41,9 +49,18 @@ The High-End Minimalist Shop is designed to showcase products in a clean and min
 
 
 
-## Screenshots
+## Screenshots of the Project 📸
 
+
+                                                      Categories Page 👇
+
+                                                      
 
 ![Screenshot 2](https://github.com/sam39333/Litlink/blob/328bba50113e86bebd11b6cf23c5e0981f05ac2e/litlink/public/Web%20capture_10-10-2023_15314_localhost.jpeg)
 
+
+
+                                                      Product Page 🎁
+
+                                                      
 ![Screenshot 3](https://github.com/sam39333/Litlink/blob/328bba50113e86bebd11b6cf23c5e0981f05ac2e/litlink/public/Web%20capture_10-10-2023_1590_localhost.jpeg)
